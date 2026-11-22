@@ -1,12 +1,24 @@
 <html>
-    <head>
-        <title>Welcome to my world</title>
+   <head>
+    <title><h3>Welcome to my world</h3>Welcome to my world</title>
     </head>
     <body>
+        <div>
         <h3>Hello World!</h3>
-        <p>My name is Brielle VictoriAnn--</p>
-        <p>A aspiring builder, researcher and storyteller <b>Learning tech</b>!</p>
-        <p>Something ive built on 11/20/2026</p>
-        <img src="ANMP0027.jpg" alt="Something I built">
+ <p>My name is Brielle VictoriAnn--</p>
+ <p>A aspiring builder, researcher and storyteller <b>Learning tech</b>!</p></body>
+  <p>Something ive built on 11/20/2026</p>
+  <img src="ANMP0027.jpg" alt="Something I built" width="300">
+  <p>Very small but very powerful, this is a small robot.</p>
+   <i>It was built using a microcontroller, motors, and sensors.</i>.</p>
+    <b>I am proud of this creation and look forward to building more complex robots or anything STEM in the future.
+    </b>
     </body>
 </html>
+
+<div class="panel">
+    <div class="intro">
+      Fun fact: I am an homeschooler. :)
+    </div>
+       </div>
+    </body>
